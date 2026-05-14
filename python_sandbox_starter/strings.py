@@ -2,5 +2,9 @@
 
 
 # String Formatting
+name ="noella promise"
+# age = 27
+# print(f"Hello, my name is {name} and I am {age}")
 
 # String Methods
+print(name.swapcase())
