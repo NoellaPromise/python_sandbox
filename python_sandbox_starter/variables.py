@@ -16,3 +16,6 @@ VARIABLE RULES:
 
 x,y, name , is_cool = (1, 2.5, "John", True)
 print (x, y, name, is_cool)
+
+z= str(x)
+print(type(z),z) 
